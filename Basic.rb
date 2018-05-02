@@ -13,4 +13,6 @@ end
 
 nilaiku = [1,2,3,10,8,9,5,7,6]
 hasil = kelulusan(nilaiku)
+
+
 return hasil
